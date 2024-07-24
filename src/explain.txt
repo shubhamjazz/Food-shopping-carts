@@ -1,0 +1,11 @@
+1.Food Order Application
+    1. Install Development tools, =>node.js, vs-code, gitBash
+2.Create Angular App
+    i. Create Project Folder
+    ii. install @angular/cli  OR (for direct import Project)npm install --force
+    iii. Create App as a Frontend
+    iv.  Adding Google Fonts in our Project:- @import url("https://fonts.googleapis.com/css2?family=Quicksand&display=swap");
+    v.   Adding Bootstrap using CDN.:-https://getbootstrap.com/docs/5.3/getting-started/download/
+3. ADD HEADER
+    i. Genrate the Component
+    ii. Add HTML
